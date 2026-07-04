@@ -2,7 +2,7 @@
 
 I build full-stack TypeScript apps and practical AI automation.
 
-Current stack: React, TypeScript, Cloudflare Workers, D1, Workers AI, Node.js.
+Current stack and tools: React, TypeScript, Cloudflare Workers, D1, Workers AI, Node.js, Claude Code, and Hermes Agent.
 
 Portfolio: [yahya-shihabe.pages.dev](https://yahya-shihabe.pages.dev)
 
@@ -26,5 +26,6 @@ Portfolio: [yahya-shihabe.pages.dev](https://yahya-shihabe.pages.dev)
 - AI automation for real business workflows
 - Full-stack TypeScript apps with clean deployment
 - Practical agent systems with verifiable outputs
+- Building with Claude Code and Hermes Agent
 
 Open to junior developer roles, practical AI automation work, and freelance builds.
